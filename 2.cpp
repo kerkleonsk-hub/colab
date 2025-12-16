@@ -6,3 +6,4 @@ int main() {
     double INTERVAL_END = 6.0;
     added const
     double s = 12.0
+    Editing symbols 0_0
